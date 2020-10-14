@@ -1,4 +1,4 @@
-var helicopterIMG, helicopterSprite, packageSprite,packageIMG,groundIMG,;
+var helicopterIMG, helicopterSprite, packageSprite,packageIMG,groundIMG;
 var packageBody,ground
 const Engine = Matter.Engine;
 const World = Matter.World;
